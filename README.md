@@ -11,7 +11,7 @@ A loan EMI calculator that goes beyond the number. Most calculators tell you you
 
 <br>
 
-**[Play Live](https://viditsinghal2406-dotcom.github.io/s8b_emi_wizard)**
+**[Live](https://viditsinghal2406-dotcom.github.io/s8b_emi_wizard)**
 
 ---
 
