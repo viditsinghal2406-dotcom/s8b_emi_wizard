@@ -1,7 +1,15 @@
 # EMI Wizard
-### Series 8, Project 8b
+### Series 8 - Project 8b
 
 A loan EMI calculator that goes beyond the number. Most calculators tell you your monthly payment and stop there. This one shows the full picture, every rupee of interest, month by month, so you understand what borrowing actually costs.
+
+<br>
+
+<a href="https://viditsinghal2406-dotcom.github.io/s8a_sudoku_engine">
+  <img src="8b_ss.png" alt="Sudoku Engine Preview" width="600"/>
+</a>
+
+<br>
 
 **[Play Live](https://viditsinghal2406-dotcom.github.io/s8b_emi_wizard)**
 
